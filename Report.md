@@ -59,7 +59,7 @@ All other arguments were set to their default values
 # Plot of Rewards
 [//]: # (Image References)
 
-[image1]: https://github.com/hoomic/navigation-drlnd/blob/master/scores.png "Plot of Rewards"
+[image1]: https://github.com/hoomic/continuous-control-drlnd/blob/master/plot_of_rewards.png "Plot of Rewards"
 ![Plot of Rewards][image1]
 
 # Ideas for Future Work
